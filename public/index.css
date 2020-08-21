@@ -1,0 +1,42 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+h6 {
+	color: whitesmoke;
+	font-weight: lighter;
+}
+
+.header {
+	background-color: white;
+	box-shadow: 0 0.5px 1.5px 0 rgba(112, 112, 112, 0.2);
+	margin-bottom: 2px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.head-img {
+	width: 250px;
+}
+.carousel-img {
+	height: 30rem;
+	width: 100%;
+}
+.row {
+	padding: 50px 150px;
+}
+.card {
+	background-color: transparent;
+	color: rgb(211, 204, 204);
+}
+.footer {
+	background-color: rgb(17, 15, 15);
+	border-radius: 0;
+	margin: 20rem auto 0;
+}
+.copyright {
+	background-color: black;
+	padding: 20px;
+}
